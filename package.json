@@ -1,0 +1,17 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"description": "A project to complete back end development certification",
+	"author": "Mark Lemuel Genita",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"keywords": ["back-end", "nodejs", "personal"],
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
